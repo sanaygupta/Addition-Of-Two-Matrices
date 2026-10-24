@@ -1,7 +1,7 @@
 # Addition-Of-Two-Matrices
 
 
-Matrix Addition in C
+# Assignment 4: Matrix Addition in C
 
 ## 1. Problem Statement
 
